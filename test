@@ -1,3 +1,5 @@
 use secure protocols
 limit access to specific ip address
+use firewall rules to block unnecessary ports
+
 
